@@ -404,6 +404,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
 <br />
+- [iOS Agent Skill](https://github.com/Nagarjuna2997/ios-agent-skill) - Read-only Swift project reviews and local Apple source/guide retrieval, with a separate optional macOS/Xcode simulator server for builds, tests, launch, and screenshot previews.
+
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
 
